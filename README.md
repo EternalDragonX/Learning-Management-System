@@ -1,4 +1,4 @@
-# cisc498_dev_f
+# Learning Management System
 
 ## Project setup
 ```
